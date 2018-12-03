@@ -7,5 +7,6 @@ public class DayTwoNotBroken{
 	System.out.println("Zeyad Emara");
 	System.out.println("Testing Error");
 	System.out.println("Testing Error2");
+	System.out.println("Add a super new awesome feature!");
 	}
 }
